@@ -1,3 +1,4 @@
+# A more intuitive and aesthetically pleasing version.(一個更直觀更美觀嘅版本)
 import matplotlib.pyplot as plt
 from random import choice
 
