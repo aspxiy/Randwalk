@@ -3,7 +3,7 @@ from random import choice
 
 
 class RandomWalk:
-    """定义随机游走的属性"""
+    """定義隨機遊走嘅屬性(Define the properties of the random walk.)"""
     def __init__(self, points_num=5000):
         self.points_num = points_num
 
